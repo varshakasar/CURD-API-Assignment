@@ -1,0 +1,17 @@
+{
+  "name": "curd-api-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongo": "^0.1.0",
+    "mongoose": "^5.3.8",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  }
+}
